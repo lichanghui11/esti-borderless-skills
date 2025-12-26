@@ -74,3 +74,23 @@ If the library starts to feel cluttered,
 it means the entry bar is too low.
 
 ---
+
+## 命名规范 (l for listening, s for speaking)
+- 听力练习：**tag_topic_ext**
+  - p1_l_book-seats.md
+  - p2_l_discuss-work-experiences.md
+  - ...
+- 口语练习：
+  - p2_s_describe-a-friend.md
+- 跨领域学习：**tag_topic_ext**
+  - tag 参考
+    - tech：技术
+    - psy：心理学
+    - biz：商业
+    - design：设计
+    - sci：科普/科学
+    - news：新闻/时事
+  - 命名示例：
+    - tech__postgres-permissions.md
+    - psy__attachment-theory.md
+    - biz__pricing-models.md
